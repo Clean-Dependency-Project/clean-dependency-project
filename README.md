@@ -1,1 +1,1 @@
-# clean-dependecny-project
+# clean-dependency-project
