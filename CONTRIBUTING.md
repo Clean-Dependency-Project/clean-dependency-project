@@ -13,6 +13,7 @@ Next, if you want to help out, do the following:
 3. Make a change.
 4. Commit your code.
 5. Issue a Pull Request.
+6. Upon submitting your Pull Request, you will be prompted to sign the [Fannie Mae Contibutor License Aggreement - CLA](TBD).
 
 Once your PR is issued, we will review your work and decide on adding it to the project!
 
