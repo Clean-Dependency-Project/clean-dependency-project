@@ -21,6 +21,6 @@ For more details about contributing to GitHub projects see [How to use Github: F
 
 ## Contributor License Agreement
 
-Before Fannie Mae merges your code into the project you must sign the [Fannie Mae Contributor License Agreement (CLA)]().
+Before Fannie Mae merges your code into the project you must sign the [Fannie Mae Contributor License Agreement (CLA)](https://gist.github.com/BrittanyIstenes/f73ffd0d7596f06e78486e232bcb88e6).
 
 If you haven't previously signed a Fannie Mae CLA, you'll automatically be asked to when you open a pull request. Alternatively, we can send you a PDF that you can sign and scan back to us. Please create a new GitHub issue to request a PDF version of the CLA.
