@@ -13,7 +13,7 @@ Next, if you want to help out, do the following:
 3. Make a change.
 4. Commit your code.
 6. Issue a Pull Request.
-7. Upon submitting your Pull Request, you will be prompted to sign the [Fannie Mae Contibutor License Aggreement - CLA]((https://gist.github.com/BrittanyIstenes/f73ffd0d7596f06e78486e232bcb88e6).
+7. Upon submitting your Pull Request, you will be prompted to sign the [Fannie Mae Contibutor License Aggreement - CLA](https://gist.github.com/BrittanyIstenes/f73ffd0d7596f06e78486e232bcb88e6).
 8. Code and patches should be pushed into the correct folder of the dependency that you are working on.
 
 Once your PR is issued, we will review your work and decide on adding it to the project!
