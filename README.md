@@ -21,5 +21,5 @@ Versions that need updating:
 * jackson-databind : 2.12.5
 * pandas : 1.x.x - 1.4.2
 
-If you would like to give back to this project, please read our [contributing guide](https://github.com/FannieMaeOpenSource/clean-dependency-project/blob/main/CONTRIBUTING.md) and visit our open issues to get started.
+If you would like to give back to this project, please read our [contributing guide](https://github.com/Clean-Dependency-Project/clean-dependency-project/blob/main/CONTRIBUTING.md) and visit our open issues to get started.
 
