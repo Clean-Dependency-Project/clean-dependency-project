@@ -2,9 +2,9 @@
 
 Thank you for considering helping out!
 
-Looking to update information or feature your project? Feel free to make the change yourself. [This is the right place to get started](https://github.com/fanniemaeopensource).
+Looking to update information on the CDP? Feel free to make the change yourself. [This is the right place to get started](https://github.com/Clean-Dependency-Project/clean-dependency-project/tree/main).
 
-First, please read the [code of conduct](https://github.com/FannieMaeOpenSource/clean-dependency-project/blob/main/CODE_OF_CONDUCT.md). We take it very seriously!
+First, please read the [code of conduct](https://github.com/Clean-Dependency-Project/clean-dependency-project/blob/main/CODE_OF_CONDUCT.md). We take it very seriously!
 
 Next, if you want to help out, do the following:
 
