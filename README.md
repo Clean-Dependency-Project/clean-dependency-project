@@ -8,11 +8,11 @@ There is an immediate concern with the consumption of OSS libraries that we rely
 
 Some of the projects and dependencies we will be working on cleaning are:
 
-* Log4J
 * SpringWeb
 * Pandas
 * SpringWeb Security 
 * Jackson-Databind
+* snakeyaml
 
 Versions that need updating:
 
