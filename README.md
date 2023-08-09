@@ -8,13 +8,13 @@ There is an immediate concern with the consumption of OSS libraries that we rely
 
 Some of the projects and dependencies we will be working on cleaning are:
 
-* SpringWeb
+* Spring Framework
 * Pandas
 * snakeyaml
 
 Versions that need updating:
 
-* spring-web : 5.3.x
+* spring-framework : 5.3.x
 * pandas : 1.5.2
 * snakeyaml : 1.3.3
 
