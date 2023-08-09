@@ -10,14 +10,12 @@ Some of the projects and dependencies we will be working on cleaning are:
 
 * SpringWeb
 * Pandas
-* SpringWeb Security 
 * snakeyaml
 
 Versions that need updating:
 
-* spring-web : 1.x.x – 5.x.x
-* spring-security-web : 1.x.x – 5.x.x
-* pandas : 1.x.x - 1.4.2
+* spring-web : 5.3.x
+* pandas : 1.5.2
 * snakeyaml : 1.3.3
 
 If you would like to give back to this project, please read our [contributing guide](https://github.com/Clean-Dependency-Project/clean-dependency-project/blob/main/CONTRIBUTING.md) and visit our open issues to get started.
