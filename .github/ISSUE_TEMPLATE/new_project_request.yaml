@@ -4,6 +4,9 @@ title: "CDP-INTAkE: "
 labels: [new-project, Needs Triage]
 
 body:
+- type: textarea
+  attributes:
+    label: "Details "
 - type: markdown
   attributes:
     value: "Thanks for taking the time to fill out this request! Our Project members shall review and update with next steps."
