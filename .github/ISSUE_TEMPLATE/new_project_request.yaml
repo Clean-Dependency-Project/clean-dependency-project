@@ -1,1 +1,4 @@
-
+name: New Project Request
+description: Request new project to be onboarded to Clean Dependency Project
+title: "CDP-INTAkE: "
+labels: [new-project, Needs Triage]
