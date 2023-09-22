@@ -16,7 +16,7 @@ Versions that need updating:
 
 * spring-framework : 5.3.x
 * pandas : 1.5.2
-* snakeyaml : 1.3.3
+* snakeyaml : 1.33
 
 If you would like to give back to this project, please read our [contributing guide](https://github.com/Clean-Dependency-Project/clean-dependency-project/blob/main/CONTRIBUTING.md) and visit our open issues to get started.
 
